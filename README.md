@@ -22,7 +22,7 @@ Used SHAP values to explain feature importance and model predictions.
 
 ### 5. Power BI Dashboard
 Created an interactive dashboard including:- Attrition Rate KPI- Department-wise Attrition- Overtime Impact- Promotion Impact- Salary Band Analysis- Interactive Slicers-
-### Dashboard Screenshot :  
+### Dashboard Screenshot :<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/faf6be41-7949-42b5-af45-d67b8f7c7447" />  
 
 ## Key Insights
 - Employees working overtime have higher attrition.- Low salary employees are more likely to resign.- Fewer promotions increase attrition risk.- Sales department shows higher employee turnover.- Overtime and      salary are major factors affecting attrition.
